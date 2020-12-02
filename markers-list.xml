@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<markers>
+	<marker id="1" name="AGORAé Lyon 1" description="Épicerie solidaire" address="43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne" lat="45.781082" lng="4.870182" type="restaurant" image="gaelis.png" />
+	<marker id="2" name="GAELIS" description="Groupement des Associations et des élus Etudiants de Lyon, Indépendants et Solidaires" address="43 Boulevard du 11 Novembre 1918, 69100 Villeurbanne" lat="45.781284" lng="4.867391" type="asso" image="gaelis.png" />
+	<marker id="3" name="FAGE" description="Fédération des Associations Générales Étudiantes" address="79 Rue Périer, 92120 Montrouge" lat="48.815235" lng="2.312168" type="asso" image="fage.png" />
+	<marker id="4" name="FEL" description="Fédération des Étudiants Lyonnais" address="46 Rue Raulin, 69007 Lyon" lat="45.746979" lng="4.834472" type="asso" image="fel.png" />
+	<marker id="5" name="FED IUT" description="Fédération des Etudiants et Diplômés en IUT" address="17 Rue de France, 69100 Villeurbanne" lat="45.766781" lng="4.886858" type="asso" image="fediut.png" />
+</markers>

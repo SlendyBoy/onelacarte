@@ -1,0 +1,60 @@
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.map-wrap{
+  margin-top: 50px;
+}
+.siderbarmap{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+input[type=checkbox]:not(:checked) + label{
+  text-decoration: line-through solid gray;
+  filter: grayscale(100%);
+}
+label{
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  font-size: 18px;
+  margin-right: 5px;
+}
+/*label icon*/
+img.icon {
+  width: 17.5px;
+  height: 22px;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+/* flex div container with image and text */
+div#infoflex{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+}
+/*infoWindow image*/
+img.info{
+  display: block;
+  border: none;
+  float: left;
+  height: 60px;
+}
+/*infoWindow text*/
+p{
+  margin: 0;
+}
+
+
+
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map{
+  height: 400px;
+  width: 100%;
+}
